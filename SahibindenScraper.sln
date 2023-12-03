@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SahibindenScraper", "SahibindenCrawler\SahibindenScraper.csproj", "{6ADE1C40-BE32-4495-9115-8D95276D3D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ADE1C40-BE32-4495-9115-8D95276D3D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADE1C40-BE32-4495-9115-8D95276D3D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADE1C40-BE32-4495-9115-8D95276D3D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADE1C40-BE32-4495-9115-8D95276D3D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2F2C09-7CCC-4E63-93DA-AE235E25DF32}
+	EndGlobalSection
+EndGlobal
